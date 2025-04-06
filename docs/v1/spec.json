@@ -1,6 +1,6 @@
 {
   "id": 0,
-  "name": "@powerbase/powerbase-js",
+  "name": "@skorpland/powerbase-js",
   "kind": 1,
   "flags": {},
   "originalName": "",
@@ -396,7 +396,7 @@
               "type": {
                 "type": "reference",
                 "qualifiedName": "RealtimeClient",
-                "package": "@powerbase/realtime-js",
+                "package": "@skorpland/realtime-js",
                 "name": "default"
               }
             },
@@ -552,7 +552,7 @@
                   "type": {
                     "type": "reference",
                     "qualifiedName": "FunctionsClient",
-                    "package": "@powerbase/functions-js",
+                    "package": "@skorpland/functions-js",
                     "name": "FunctionsClient"
                   }
                 }
@@ -584,7 +584,7 @@
                   "type": {
                     "type": "reference",
                     "qualifiedName": "StorageClient",
-                    "package": "@powerbase/storage-js",
+                    "package": "@skorpland/storage-js",
                     "name": "StorageClient"
                   }
                 }
@@ -622,7 +622,7 @@
                       "type": {
                         "type": "reference",
                         "qualifiedName": "RealtimeSubscription",
-                        "package": "@powerbase/realtime-js",
+                        "package": "@skorpland/realtime-js",
                         "name": "default"
                       }
                     }
@@ -748,7 +748,7 @@
                       "type": {
                         "type": "reference",
                         "qualifiedName": "AuthChangeEvent",
-                        "package": "@powerbase/gotrue-js",
+                        "package": "@skorpland/gotrue-js",
                         "name": "AuthChangeEvent"
                       }
                     },
@@ -825,7 +825,7 @@
                   "type": {
                     "type": "reference",
                     "qualifiedName": "PostgrestClient",
-                    "package": "@powerbase/postgrest-js",
+                    "package": "@skorpland/postgrest-js",
                     "name": "default"
                   }
                 }
@@ -865,7 +865,7 @@
                       "type": {
                         "type": "reference",
                         "qualifiedName": "Options",
-                        "package": "@powerbase/realtime-js",
+                        "package": "@skorpland/realtime-js",
                         "name": "Options"
                       }
                     }
@@ -873,7 +873,7 @@
                   "type": {
                     "type": "reference",
                     "qualifiedName": "RealtimeClient",
-                    "package": "@powerbase/realtime-js",
+                    "package": "@skorpland/realtime-js",
                     "name": "default"
                   }
                 }
@@ -954,7 +954,7 @@
                       {
                         "type": "reference",
                         "qualifiedName": "Subscription",
-                        "package": "@powerbase/gotrue-js",
+                        "package": "@skorpland/gotrue-js",
                         "name": "Subscription"
                       }
                     ]
@@ -1032,7 +1032,7 @@
                       "type": {
                         "type": "reference",
                         "qualifiedName": "RealtimeSubscription",
-                        "package": "@powerbase/realtime-js",
+                        "package": "@skorpland/realtime-js",
                         "name": "default"
                       }
                     }
@@ -1191,7 +1191,7 @@
                     "elementType": {
                       "type": "reference",
                       "qualifiedName": "RealtimeSubscription",
-                      "package": "@powerbase/realtime-js",
+                      "package": "@skorpland/realtime-js",
                       "name": "default"
                     }
                   }
@@ -1273,7 +1273,7 @@
                                         "type": {
                                           "type": "reference",
                                           "qualifiedName": "RealtimeSubscription",
-                                          "package": "@powerbase/realtime-js",
+                                          "package": "@skorpland/realtime-js",
                                           "name": "default"
                                         }
                                       }
@@ -1372,7 +1372,7 @@
                       "type": {
                         "type": "reference",
                         "qualifiedName": "RealtimeSubscription",
-                        "package": "@powerbase/realtime-js",
+                        "package": "@skorpland/realtime-js",
                         "name": "default"
                       }
                     }
@@ -1649,7 +1649,7 @@
                       }
                     ],
                     "qualifiedName": "PostgrestFilterBuilder",
-                    "package": "@powerbase/postgrest-js",
+                    "package": "@skorpland/postgrest-js",
                     "name": "default"
                   }
                 }
@@ -1980,7 +1980,7 @@
                               "type": {
                                 "type": "reference",
                                 "qualifiedName": "RealtimeClient",
-                                "package": "@powerbase/realtime-js",
+                                "package": "@skorpland/realtime-js",
                                 "name": "default"
                               }
                             },
@@ -2114,7 +2114,7 @@
               "type": {
                 "type": "reference",
                 "qualifiedName": "RealtimeClient",
-                "package": "@powerbase/realtime-js",
+                "package": "@skorpland/realtime-js",
                 "name": "default"
               }
             },
@@ -2336,7 +2336,7 @@
                 }
               ],
               "qualifiedName": "PostgrestQueryBuilder",
-              "package": "@powerbase/postgrest-js",
+              "package": "@skorpland/postgrest-js",
               "name": "default"
             }
           ]
@@ -2401,7 +2401,7 @@
                       "type": {
                         "type": "reference",
                         "qualifiedName": "RealtimeClient",
-                        "package": "@powerbase/realtime-js",
+                        "package": "@skorpland/realtime-js",
                         "name": "default"
                       }
                     },
@@ -2464,7 +2464,7 @@
               "type": {
                 "type": "reference",
                 "qualifiedName": "RealtimeSubscription",
-                "package": "@powerbase/realtime-js",
+                "package": "@skorpland/realtime-js",
                 "name": "default"
               }
             },
@@ -2718,7 +2718,7 @@
                   "type": {
                     "type": "reference",
                     "qualifiedName": "RealtimeSubscription",
-                    "package": "@powerbase/realtime-js",
+                    "package": "@skorpland/realtime-js",
                     "name": "default"
                   }
                 }
@@ -3332,7 +3332,7 @@
                   "type": {
                     "type": "reference",
                     "qualifiedName": "Options",
-                    "package": "@powerbase/realtime-js",
+                    "package": "@skorpland/realtime-js",
                     "name": "RealtimeClientOptions"
                   }
                 },

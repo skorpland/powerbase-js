@@ -1,4 +1,4 @@
-import { PostgrestClient } from '@powerbase/postgrest-js'
+import { PostgrestClient } from '@skorpland/postgrest-js'
 import { createClient, PowerbaseClient } from '../src/index'
 import { Database } from './types'
 
@@ -15,7 +15,7 @@ test('it should create a client with third-party auth accessToken', async () => 
   })
 
   expect(() => client.auth.getUser()).toThrowError(
-    '@powerbase/powerbase-js: Powerbase Client is configured with the accessToken option, accessing powerbase.auth.getUser is not possible'
+    '@skorpland/powerbase-js: Powerbase Client is configured with the accessToken option, accessing powerbase.auth.getUser is not possible'
   )
 })
 

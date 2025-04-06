@@ -1,18 +1,14 @@
 {
   "name": "@skorpland/powerbase-js",
-  "version": "1.0.0",
+  "version": "2.49.3",
   "description": "Isomorphic Javascript client for Powerbase",
   "keywords": [
     "javascript",
     "typescript",
     "powerbase"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/skorpland/powerbase-js.git"
-  },
-  "homepage": "https://github.com/skorpland/powerbase-js",
-  "bugs": "https://github.com/skorpland/powerbase-js/issues",
+  "homepage": "https://github.com/powerbase/powerbase-js",
+  "bugs": "https://github.com/powerbase/powerbase-js/issues",
   "license": "MIT",
   "author": "Powerbase",
   "files": [
@@ -23,7 +19,7 @@
   "module": "dist/module/index.js",
   "types": "dist/module/index.d.ts",
   "sideEffects": false,
- 
+  "repository": "powerbase/powerbase-js",
   "scripts": {
     "clean": "rimraf dist docs/v2",
     "format": "prettier --write \"{src,test}/**/*.ts\"",

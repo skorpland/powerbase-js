@@ -4,7 +4,7 @@ Releases are handled by Semantic release. This document is for forcing and docum
 
 ## 1.11.8
 
-- Implement @powerbase/storage-js
+- Implement @skorpland/storage-js
 
 ## 1.4.0
 
@@ -12,12 +12,12 @@ Releases are handled by Semantic release. This document is for forcing and docum
 
 ## 1.1.4
 
-- bump @powerbase/gotrue-js from 1.9.3.2 to [1.10.1](https://github.com/skorpland/gotrue-js/releases/tag/v1.10.1)
+- bump @skorpland/gotrue-js from 1.9.3.2 to [1.10.1](https://github.com/skorpland/gotrue-js/releases/tag/v1.10.1)
   - Includes Next.js/Express helpers and Password reset helpers
 
 ## 1.1.3
 
-- bump @powerbase/postgrest-js from 0.21.2 to 0.22.0
+- bump @skorpland/postgrest-js from 0.21.2 to 0.22.0
 - Fix: Added 'AuthUser' to the exports
 
 ## 1.0.6

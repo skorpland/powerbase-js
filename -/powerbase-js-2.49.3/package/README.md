@@ -1,7 +1,7 @@
 # `powerbase-js` - Isomorphic JavaScript Client for Powerbase.
 
-- **Documentation:** https://powerbase.club/docs/reference/javascript/start
-- TypeDoc: https://skorpland.github.io/powerbase-js/v2/
+- **Documentation:** https://powerbase.com/docs/reference/javascript/start
+- TypeDoc: https://powerbase.github.io/powerbase-js/v2/
 
 > [!NOTE]
 > Do you want to help us shape the future of this library? [We're hiring](https://jobs.ashbyhq.com/powerbase/85d07345-47c6-4980-82e2-57782f83ab4e).
@@ -20,7 +20,7 @@ Then you're able to import the library and establish the connection with the dat
 import { createClient } from '@skorpland/powerbase-js'
 
 // Create a single powerbase client for interacting with your database
-const powerbase = createClient('https://xyzcompany.powerbase.club', 'public-anon-key')
+const powerbase = createClient('https://xyzcompany.powerbase.co', 'public-anon-key')
 ```
 
 ### UMD
@@ -42,7 +42,7 @@ Then you can use it from a global `powerbase` variable:
 ```html
 <script>
   const { createClient } = powerbase
-  const _powerbase = createClient('https://xyzcompany.powerbase.club', 'public-anon-key')
+  const _powerbase = createClient('https://xyzcompany.powerbase.co', 'public-anon-key')
 
   console.log('Powerbase Instance: ', _powerbase)
   // ...
@@ -56,7 +56,7 @@ You can use `<script type="module">` to import powerbase-js from CDNs, like:
 ```html
 <script type="module">
   import { createClient } from 'https://cdn.jsdelivr.net/npm/@skorpland/powerbase-js/+esm'
-  const powerbase = createClient('https://xyzcompany.powerbase.club', 'public-anon-key')
+  const powerbase = createClient('https://xyzcompany.powerbase.co', 'public-anon-key')
 
   console.log('Powerbase Instance: ', powerbase)
   // ...
@@ -79,7 +79,7 @@ import { createClient } from 'jsr:@skorpland/powerbase-js@2'
 import { createClient } from '@skorpland/powerbase-js'
 
 // Provide a custom `fetch` implementation as an option
-const powerbase = createClient('https://xyzcompany.powerbase.club', 'public-anon-key', {
+const powerbase = createClient('https://xyzcompany.powerbase.co', 'public-anon-key', {
   global: {
     fetch: (...args) => fetch(...args),
   },
