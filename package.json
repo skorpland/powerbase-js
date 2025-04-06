@@ -1,6 +1,6 @@
 {
   "name": "@skorpland/powerbase-js",
-  "version": "2.49.3",
+  "version": "2.49.4",
   "description": "Isomorphic Javascript client for Powerbase",
   "keywords": [
     "javascript",
