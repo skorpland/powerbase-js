@@ -1,12 +1,15 @@
 {
   "name": "@skorpland/powerbase-js",
-  "version": "1.0.0",
+  "version": "2.39.8",
   "description": "Isomorphic Javascript client for Powerbase",
   "keywords": [
     "javascript",
     "typescript",
     "powerbase"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/skorpland/powerbase-js.git"
