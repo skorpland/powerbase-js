@@ -1,5 +1,5 @@
 {
-  "name": "@powerbase/powerbase-js",
+  "name": "@skorpland/powerbase-js",
   "version": "0.0.0-automated",
   "description": "Isomorphic Javascript client for Powerbase",
   "keywords": [
