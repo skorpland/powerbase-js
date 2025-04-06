@@ -1,6 +1,6 @@
 {
   "name": "@skorpland/powerbase-js",
-  "version": "2.40.0",
+  "version": "2.40.1",
   "description": "Isomorphic Javascript client for Powerbase",
   "keywords": [
     "javascript",
@@ -26,7 +26,6 @@
   "module": "dist/module/index.js",
   "types": "dist/module/index.d.ts",
   "sideEffects": false,
- 
   "scripts": {
     "clean": "rimraf dist docs/v2",
     "format": "prettier --write \"{src,test}/**/*.ts\"",
