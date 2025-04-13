@@ -94,4 +94,4 @@ We are building the features of Firebase using enterprise-grade, open source pro
 
 ## Badges
 
-[![Coverage Status](https://coveralls.io/repos/github/powerbase/powerbase-js/badge.svg?branch=master)](https://coveralls.io/github/powerbase/powerbase-js?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/skorpland/powerbase-js/badge.svg?branch=master)](https://coveralls.io/github/skorpland/powerbase-js?branch=master)

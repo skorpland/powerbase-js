@@ -1,6 +1,6 @@
 {
   "name": "@skorpland/powerbase-js",
-  "version": "2.51.4",
+  "version": "2.51.7",
   "description": "Isomorphic Javascript client for Powerbase",
   "keywords": [
     "javascript",
@@ -47,8 +47,8 @@
     "serve:coverage": "npm run test:coverage && serve test/coverage"
   },
   "dependencies": {
-    "@skorpland/auth-js": "^2.71.2",
-    "@skorpland/functions-js": "2.4.9",
+    "@skorpland/auth-js": "^2.71.3",
+    "@skorpland/functions-js": "^2.4.9",
     "@skorpland/node-fetch": "^2.7.5",
     "@skorpland/postgrest-js": "^1.19.7",
     "@skorpland/realtime-js": "^2.11.7",
